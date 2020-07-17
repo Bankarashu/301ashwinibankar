@@ -1,1 +1,35 @@
+Assignment 1-a
+*printing "Hello world"
 
+a="Hello world"
+print(a) 
+
+
+Assignment 1-b
+*creating list
+l1 =[1,2,3,4,5]
+print(l1)
+
+*Inserting element at position
+l1. insert(4, 6) 
+print("After inserting element=", l1) 
+
+*Removing Element
+
+l1. remove(6) 
+print(l1) 
+
+*Append the element in list
+
+l1. append(0) 
+print(l1) 
+
+*sorting the list
+
+l1. sort() 
+print(l1) 
+
+*Reversing the list
+
+l1. reverse() 
+print(l1) 
