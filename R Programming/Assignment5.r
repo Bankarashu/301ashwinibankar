@@ -43,3 +43,16 @@ std <- sd(x)
 sqrt((std ^ 2) * (n-1)/n)
 
 length(x)
+
+
+mean(x,trim = 0,na.rm = TRUE)
+
+median(x,na.rm = FALSE)
+
+sd(x,na.rm = FALSE)
+
+min(x)
+
+max(x)
+
+range(x)
